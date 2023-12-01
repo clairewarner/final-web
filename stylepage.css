@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 40px;
+}
+h5{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image: url(https://www.tilingtextures.com/wp-content/uploads/2023/09/281-comp-400x400.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.div1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+.div2{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+.div3{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+.div4{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+.div5{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;  
+    font-size: 18px;
+}
